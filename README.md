@@ -1,0 +1,2 @@
+# eslint-custom-rules
+WIP
